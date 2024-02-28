@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MornhouseTest</string>
+
+    <string name="number">Number %s</string>
+    <string name="search">Search</string>
+    <string name="hint">Type number here</string>
+    <string name="some_error">Something went wrong. Please, try again later</string>
+    <string name="err_network">Please, check your network connection and try again</string>
+    <string name="show_random">Random number</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="numbers_api">Numbers API</string>
+    <string name="info">Info</string>
+    <string name="about">Created by Olexandr Putsenko</string>
+    <string name="number_info">Number Info</string>
+    <string name="contact">Telegram: @evilstan</string>
+    <string name="no_tg">Sorry, no telegram found installed</string>
+</resources>
